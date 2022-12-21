@@ -1,15 +1,16 @@
-# DatingApp Udemy Course repository
+# DatingApp
 
-![Deploy status](https://github.com/trycatchlearn/DatingApp/actions/workflows/docker-push.yml/badge.svg)
+An ASP.NET Core WebAPI and Angular app built with .Net 7.0, Angular 14 and Bootstrap 5
 
-This is the updated repository for the .Net 7.0, Angular 14 and Bootstrap 5 version of the course refreshed as at November 2022
+Includes:
 
-View a demo of this app [here](https://da-course.fly.dev).   You just need to register a user and sign in to see it in action.  
-
-You can see how this app was made by checking out the Udemy course for this here (with discount)
-
-[Udemy course](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/?couponCode=DAGITHUB7)
-
-If you are looking for the repository for the version of this app created on .Net 6.0 and Angular v12 then this is available here:
-
-https://github.com/TryCatchLearn/DatingApp-v6
+ - Client side login and register function
+ - 3rd party components
+ - Routing to the Angular application
+ - Automapper in ASP.NET Core
+- UI using Bootstrap
+- Photo Upload functionality
+- Angular Template forms and Reactive forms and validation
+- SignalR for real time presence and live messaging between users
+- Paging, Sorting and Filtering
+- Private Messaging system
